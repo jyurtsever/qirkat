@@ -1,0 +1,25 @@
+java -ea qirkat.Main
+set white bw--b ----b ----b -w-b- b--bb
+dump
+@<===
+@< b - - b b
+@< - w - b -
+@< - - - - b
+@< - - - - b
+@< b w - - b
+@<===
+b4-c4
+a1-c1
+c4-e4
+d5-d4
+e4-c4
+a5-b5
+c4-b4
+dump
+@<===
+@< - b - - b
+@< - w - - -
+@< - - - - b
+@< - - - - b
+@< - - b - b
+@<===

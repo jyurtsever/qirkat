@@ -1,0 +1,15 @@
+java -ea qirkat.Main
+set black ---w- --wbw ---bb -bw-- -----
+dump
+@<===
+@< - - - - -
+@< - b w - -
+@< - - - b b
+@< - - w b w
+@< - - - w -
+@<===
+auto black
+start
+@<Black moves e3-e1-c1-c3-c5.
+@<Black wins.
+quit
